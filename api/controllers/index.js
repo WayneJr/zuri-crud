@@ -5,7 +5,7 @@ const User = require('../models/Users');
 // The root function handling what is 
 // done when the root endpoint is accessed
 function root(req, res) {
-    res.send("Hello Server");
+    res.send('The github repository for this application can be accessed <a href="https://github.com/WayneJr/zuri-crud">here</a>');
 }
 
 // function called when post request 
