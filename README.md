@@ -3,6 +3,9 @@
 On your localhost you can access the api at 
 ```http://localhost:[PORT STATED IN .ENV FILE]```
 
+The hosted version of this app can be found at 
+https://radiant-citadel-06042.herokuapp.com/
+
 Endpoints are as follows:
 
 GET - Root endpoint 
